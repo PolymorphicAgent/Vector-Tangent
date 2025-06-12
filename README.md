@@ -7,7 +7,7 @@ Write an algorithm that calculates the tangent of any arbitrary angle (in degree
 **Your solution must use vectors.**
 ****
 This was the prompt presented to me by a friend, my response to which is the program displayed above.
-****
+
 # Building
 This program can be built with g++.
 ```
