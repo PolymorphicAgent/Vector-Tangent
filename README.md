@@ -14,4 +14,9 @@ This program can be built with g++.
 g++ -o Vector-Tangent main.cpp Vector.cpp
 ```
 
+****
+If you prefer to quickly view/tinker with this small project on the web, it may be found at the following link:
+
+[https://www.onlinegdb.com/Lm8XCq5Qp](https://www.onlinegdb.com/Lm8XCq5Qp)
+
 *Note: inputting unreasonably large numbers may cause undesired outputs due to the use of floating-point numbers.*
